@@ -33,6 +33,7 @@ dependencies:
     sdk: flutter
   uikit:
     path: module_uikit/uikit/
+  get: ^4.6.5  
 
 
   # The following adds the Cupertino Icons font to your application.

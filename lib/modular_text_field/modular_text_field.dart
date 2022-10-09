@@ -13,6 +13,8 @@ class _ModularTextFieldState extends State<ModularTextField> {
   Widget build(BuildContext context) {
 
     var userSize = MediaQuery.of(context).size;
+    print(userSize.width);
+    print(userSize.height);
 
     return Scaffold(
       body: Column(
